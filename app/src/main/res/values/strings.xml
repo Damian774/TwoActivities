@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two</string>
+    <string name="EditText1_hint">Wpisz wiadomosc</string>
+    <string name="button_send_text">Wyslij</string>
+    <string>name="</string>
+    <string name="ala_ma_kota">ala ma kota</string>
+    <string name="button_reply_text">Odpowiedz</string>
+    <string name="trzeci_ekran">Trzeci Ekran</string>
+</resources>
